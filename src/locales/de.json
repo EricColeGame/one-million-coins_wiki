@@ -1,1 +1,509 @@
-{}
+{
+  "site": {
+    "name": "One Million Coins Wiki",
+    "shortName": "One Million Coins",
+    "tagline": "Skilltree, Upgrades, Tresor-Fortschritt & Tipps",
+    "description": "Von Fans erstelltes One Million Coins Wiki zum Ego-Mining-Loop, zu Werkzeug- und Beutel-Upgrades, zum Skilltree mit über 250 Knoten, zum Tresor-Fortschritt und zu den Erfolgen.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler gemacht."
+  },
+  "nav": {
+    "home": "Start",
+    "menu": "Menü",
+    "toggleTheme": "Design wechseln",
+    "guide": "Guide",
+    "mechanics": "Mechaniken",
+    "progression": "Fortschritt",
+    "platforms": "Plattformen",
+    "reviews": "Tests",
+    "community": "Community"
+  },
+  "guide": {
+    "overviewTitle": "One Million Coins Guide: Einsteiger-Walkthroughs und Münzrouten",
+    "overviewDescription": "Alle One Million Coins Guides an einem Ort: Spielweise, Münzbeschaffung, die Einsteiger-Route, komplette Durchläufe und die bisher gemeldeten schnellsten Abschlusszeiten."
+  },
+  "mechanics": {
+    "overviewTitle": "One Million Coins Mechaniken: Münz-Farming, Speedruns und Tresorgeheimnisse",
+    "overviewDescription": "Wie der Loop von One Million Coins wirklich funktioniert: Münzen sammeln, Farming-Methoden, die Eine-Million-Münzen-Herausforderung, die Entdeckung des Grundes, Highscores und Speedrun-Routen."
+  },
+  "progression": {
+    "overviewTitle": "One Million Coins Fortschritt: Erfolge, Enden und Geheimnisse",
+    "overviewDescription": "Verfolge deinen Fortschritt in One Million Coins mit Freischaltungen, der Erfolgsliste, allen Enden, versteckten Geheimnissen und einem Komplettierungs-Guide zum Leeren des Tresors."
+  },
+  "platforms": {
+    "overviewTitle": "One Million Coins Plattformen: Steam, PC-Download und Systemanforderungen",
+    "overviewDescription": "Plattformdetails zu One Million Coins für PC und Steam: wo du das Spiel herunterlädst, die angegebenen Systemanforderungen und die Controller-Unterstützung."
+  },
+  "reviews": {
+    "overviewTitle": "One Million Coins Tests, Trailer und Release-Termin",
+    "overviewDescription": "Tests und Medien zu One Million Coins in einem Hub: der offizielle Trailer, Gameplay-Videos, Release-Termin und Preisdetails sowie das, was Spieler auf Reddit sagen."
+  },
+  "community": {
+    "overviewTitle": "One Million Coins Community: Tipps, Discord und neueste Updates",
+    "overviewDescription": "Der Community-Hub zu One Million Coins: Tipps und Tricks der ersten Spieler, lohnenswerte Discord-Server und die neuesten Update-Zusammenfassungen."
+  },
+  "home": {
+    "meta": {
+      "title": "One Million Coins Wiki - Guide, Upgrades & Skilltree",
+      "description": "Entdecke One Million Coins mit Einsteigertipps, Werkzeug-Upgrades, dem Skilltree mit über 250 Knoten, Münzsammel-Strategien, Fortschritts-Guides und Erfolgshilfe."
+    },
+    "hero": {
+      "eyebrow": "Ego-Mining im Incremental-Stil",
+      "title": "One Million Coins Wiki",
+      "description": "Sammle eine Million Münzen, verbessere deine Werkzeuge, erweitere deine Traglast und meistere einen Skilltree mit über 250 Knoten in diesem Ego-Incremental-Mining-Spiel.",
+      "stats": [
+        "1.000.000 Münzen insgesamt",
+        "Über 250 Skilltree-Knoten",
+        "43 zuletzt erfasste Spieler",
+        "Release am 13. Oktober 2026"
+      ],
+      "primaryCta": "Einsteiger-Guide",
+      "secondaryCta": "Skilltree-Guide",
+      "tertiaryCta": "Auf Steam spielen",
+      "videoLabel": "Offizieller Trailer"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Reise in One Million Coins",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteiger-Guide",
+          "description": "Schaufle Münzen mit bloßen Händen, zahle an der nächstgelegenen Einzahlungsstation ein und kaufe einen Beutel, bevor du dir dein erstes richtiges Werkzeug leistest."
+        },
+        {
+          "number": "2",
+          "title": "Schnellster Fortschritt",
+          "description": "Stecke frühe Skill-Knoten in Kapazität und Bewegung und spezialisiere dich dann in 20-Minuten-Blöcken, statt Punkte gleichmäßig zu verteilen."
+        },
+        {
+          "number": "3",
+          "title": "Münz-Farming-Spots",
+          "description": "Arbeite eine dichte Wand in sauberen Linien ab, zahle jede halbvolle Ladung ein und stelle Förderbänder wieder her, damit die Laufzeit nicht deinen Gewinn auffrisst."
+        },
+        {
+          "number": "4",
+          "title": "Tresor-Fortschritt",
+          "description": "Stelle Einzahlungsstationen, Frachtaufzüge und Förderbänder wieder her, um die Karte zu verkleinern, und grabe dann tiefer, sobald dein Loop sauber läuft."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Gerade im Trend",
+      "quickLinks": [
+        "Einsteiger-Guide",
+        "Skilltree",
+        "Münz-Farming",
+        "Systemanforderungen"
+      ],
+      "cards": [
+        {
+          "badge": "Einsteiger",
+          "title": "Einsteiger-Guide",
+          "description": "Der Kern-Loop, die ersten Upgrades und eine Zwei-Stunden-Route zum Leeren des Tresors.",
+          "href": "/guide/one-million-coins-beginner-guide"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Prioritäten im Skilltree",
+          "description": "Wo du im Baum mit über 250 Knoten Punkte für den schnellsten Abschluss ausgibst.",
+          "href": "/guide/one-million-coins-how-to-play"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Grundlagen des Münzensammelns",
+          "description": "Wie Werkzeuge, Traglast und Einzahlungsstationen zusammenpassen.",
+          "href": "/mechanics/one-million-coins-coin-collecting"
+        },
+        {
+          "badge": "Guide",
+          "title": "Münz-Farming-Methoden",
+          "description": "Farming-Routen Phase für Phase, von kurzen Wegen mit bloßen Händen bis zu Werkzeugen, die ganze Wellen wegräumen.",
+          "href": "/mechanics/one-million-coins-coin-farming-methods"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Erfolgs-Guide",
+          "description": "Ein Fahrplan zu allen 16 Steam-Erfolgen und den Gewohnheiten, die sie freischalten.",
+          "href": "/progression/one-million-coins-achievements"
+        },
+        {
+          "badge": "Neu",
+          "title": "Systemanforderungen",
+          "description": "Minimale und empfohlene PC-Spezifikationen plus Lösungen für Ruckler und Abstürze beim Start.",
+          "href": "/platforms/one-million-coins-system-requirements"
+        },
+        {
+          "badge": "Guide",
+          "title": "Tipps und Tricks",
+          "description": "Kleine Optimierungen, die jeden Weg verkürzen und den gesamten Durchlauf beschleunigen.",
+          "href": "/community/one-million-coins-tips-and-tricks"
+        },
+        {
+          "badge": "Guide",
+          "title": "Entdeckung des Grundes",
+          "description": "Was die tiefste Schicht des Bunkers verlangt, bevor du sie vollständig leerräumen kannst.",
+          "href": "/mechanics/one-million-coins-bottom-discovery"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist One Million Coins?",
+      "paragraphs": [
+        "One Million Coins ist ein kurzes Ego-Incremental-Mining-Spiel vom Entwickler ShoXx, das am 13. Oktober 2026 auf Steam erschienen ist. Du startest mit leeren Händen in einem unterirdischen Tresor und nur einem Ziel: alle 1.000.000 Münzen auszugraben, sie an einer Einzahlungsstation einzuzahlen und den Erlös in Werkzeuge, Taschen und Skill-Knoten zu investieren.",
+        "Der Fortschritt läuft auf zwei Schienen. Die Ausrüstung bringt dich von bloßen Händen über Beutel und Rucksäcke bis zu motorisierten Werkzeugen, die Münzen in Wellen wegräumen, während ein Skilltree mit über 250 Knoten Upgrades auf Bewegung, Reichweite, Sammelgeschwindigkeit, Werkzeugstärke, Kapazität und Einzahlungsrate verteilt. Die Wiederherstellung der Bunker-Infrastruktur wie Einzahlungsstationen, Frachtaufzüge und Förderbänder verkürzt deine Route dauerhaft, und die meisten Spieler können den Tresor in etwa zwei Stunden leeren."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "ShoXx"
+        },
+        {
+          "label": "Plattform",
+          "value": "Windows / Steam"
+        },
+        {
+          "label": "Genre",
+          "value": "Incremental"
+        },
+        {
+          "label": "Münzen insgesamt",
+          "value": "1.000.000"
+        },
+        {
+          "label": "Skilltree-Knoten",
+          "value": "Über 250"
+        },
+        {
+          "label": "Erfolge",
+          "value": "16"
+        },
+        {
+          "label": "Typischer Durchlauf",
+          "value": "Ca. 2 Stunden"
+        },
+        {
+          "label": "Release-Termin",
+          "value": "13. Oktober 2026"
+        }
+      ],
+      "cta": "Alle Guides entdecken"
+    },
+    "explore": {
+      "title": "Das One Million Coins Wiki entdecken",
+      "description": "Acht Themen-Hubs decken den gesamten Durchlauf ab: der Einsteiger-Loop, der Skilltree mit über 250 Knoten, Werkzeuge und Traglast, Upgrade-Prioritäten, Tresor-Fortschritt, Erfolge, PC-Systemanforderungen und praktische Tipps.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "One Million Coins Einsteiger-Guide",
+          "description": "Lerne den Kern-Loop kennen, vom Sammeln der Münzen mit der Hand über die erste Einzahlung bis zum Kauf des Beutels, der deine Kapazität ins Rollen bringt.",
+          "href": "/guide/one-million-coins-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Sammle Münzen mit der Hand vom Haufen, bis du dir dein erstes Upgrade leisten kannst."
+            },
+            {
+              "label": "2",
+              "detail": "Zahle an der nächstgelegenen statt an der weit entfernten Einzahlungsstation ein, um pro Weg 30 bis 40 Sekunden zu sparen."
+            },
+            {
+              "label": "3",
+              "detail": "Kaufe zuerst einen Beutel und dann einen Rucksack, damit jeder spätere Weg mehr Gold transportiert."
+            },
+            {
+              "label": "4",
+              "detail": "Gib deine ersten Knoten für Sammelgeschwindigkeit und Bewegung aus, um den gesamten Loop zu beschleunigen."
+            },
+            {
+              "label": "5",
+              "detail": "Stelle die erste gefundene Einzahlungsstation wieder her, um aus einem langen Weg einen kurzen zu machen."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "One Million Coins Skilltree-Guide",
+          "description": "Plane deine Punkte im Skilltree mit über 250 Knoten, der Upgrades auf Bewegung, Reichweite, Sammelgeschwindigkeit, Werkzeugstärke, Kapazität und Einzahlungsrate verteilt.",
+          "href": "/guide/one-million-coins-how-to-play",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Kapazität",
+              "detail": "Erhöht die pro Weg transportierten Münzen und zahlt sich in jeder Phase des Durchlaufs aus."
+            },
+            {
+              "label": "Bewegung",
+              "detail": "Verkürzt die Laufzeit auf beiden Strecken des Rundwegs und ist der am meisten unterschätzte Pfad."
+            },
+            {
+              "label": "Sammeln",
+              "detail": "Beschleunigt, wie schnell jede Schaufelbewegung am Münzhaufen abgeschlossen ist."
+            },
+            {
+              "label": "Werkzeugkraft",
+              "detail": "Steigert den Ertrag jeder Werkzeugaktion, bevor du auf eine neue Werkzeugstufe wechselst."
+            },
+            {
+              "label": "Reichweite",
+              "detail": "Lässt dich Münzen greifen, ohne dich um hohe oder ungünstige Haufen herum neu zu positionieren."
+            },
+            {
+              "label": "Einzahlung",
+              "detail": "Wandelt eingezahlte Ladungen schneller in verfügbares Geld um, sobald die Ladungen riesig werden."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "One Million Coins Werkzeuge und Ausrüstung",
+          "description": "Vergleiche die Leiter aus Werkzeugen und Taschen, die dich von bloßen Händen bis zu motorisierter Ausrüstung führt, die Münzen in Wellen statt in Prise hereinholt.",
+          "href": "/mechanics/one-million-coins-coin-collecting",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Bloße Hände",
+              "detail": "Kostenlos, aber winzige Schaufeln bedeuten ständige Wege zurück zur Einzahlungsstation."
+            },
+            {
+              "label": "Beutel",
+              "detail": "Dein erster echter Kapazitätsschub und der günstigste Komfortsprung im Spiel."
+            },
+            {
+              "label": "Rucksack",
+              "detail": "Verwandelt kurze Hüpfer in richtige Ladungen, sobald dein erstes Werkzeug freigeschaltet ist."
+            },
+            {
+              "label": "Motorisierte Werkzeuge",
+              "detail": "Münzen kommen in Schaufeln statt in Prise herein und räumen Haufen deutlich schneller weg."
+            },
+            {
+              "label": "Ausrüstung im Endgame",
+              "detail": "Hochleistungsausrüstung räumt im letzten Drittel des Durchlaufs Wellen von Münzen pro Durchgang weg."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "One Million Coins beste Upgrades",
+          "description": "Ordne die wichtigsten Upgrade-Pfade ein, damit du frühes Geld in gesparte Zeit statt in rohe Kraft investierst, die du nicht tragen kannst.",
+          "href": "/mechanics/one-million-coins-coin-farming-methods",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Kapazitäts-Upgrades: mehr Münzen pro Weg sind die härteste frühe Grenze und der stille Multiplikator hinter allem anderen."
+            },
+            {
+              "label": "A",
+              "detail": "Bewegungsknoten: kürzere Wege auf beiden Strecken des Loops summieren sich bei jeder einzelnen Ladung."
+            },
+            {
+              "label": "B",
+              "detail": "Sammelgeschwindigkeit: ergänzt die Werkzeugstärke, um dichte Haufen nahe einer Einzahlungsstation abzuräumen."
+            },
+            {
+              "label": "C",
+              "detail": "Einzahlungsrate: lohnt sich, sobald die Ladungen wirklich riesig werden und das Einzahlen zum Engpass wird."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "One Million Coins Tresor-Fortschritts-Guide",
+          "description": "Folge dem Durchlauf vom Haufen an der Oberfläche bis zum Grund des Bunkers und sieh, welches Upgrade den Engpass in jeder Schicht löst.",
+          "href": "/mechanics/one-million-coins-bottom-discovery",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Bloße Hände an der Oberfläche: die winzige Traglast begrenzt deine ersten Wege."
+            },
+            {
+              "label": "2",
+              "detail": "Erste Werkzeuge beschleunigen das Schaufeln nahe des Eingangs."
+            },
+            {
+              "label": "3",
+              "detail": "Beutel und Rucksäcke verschieben den Engpass vom Graben zum Laufen."
+            },
+            {
+              "label": "4",
+              "detail": "Reichweiten-Knoten holen Münzen zurück, die auf breiteren Schichten außerhalb deiner Greifweite liegen."
+            },
+            {
+              "label": "5",
+              "detail": "Wiederhergestellte Einzahlungsstationen, Frachtaufzüge und Förderbänder automatisieren einen Teil des Transports."
+            },
+            {
+              "label": "6",
+              "detail": "Ein vollständiger Durchgang durch die tiefste Schicht leert den Tresor endgültig."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "One Million Coins Erfolgs-Guide",
+          "description": "Verfolge die 16 Steam-Erfolge, darunter Pocket Change und A Small Fortune, mit einem Fahrplan Phase für Phase und Gewohnheiten, die den Fortschritt am Laufen halten.",
+          "href": "/progression/one-million-coins-achievements",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Meilensteine",
+              "detail": "Erfolge für die Gesamtmünzzahl schalten sich ab deiner ersten Sitzung stetig frei."
+            },
+            {
+              "label": "Effizienz",
+              "detail": "Leistungen für Münzen pro Minute und pro Aktion belohnen einen sauberen, wiederholbaren Loop."
+            },
+            {
+              "label": "Sammlung",
+              "detail": "Das Freischalten jedes Gegenstands, Upgrades oder Gebiets wird zum letzten Engpass."
+            },
+            {
+              "label": "Tägliche Runs",
+              "detail": "Belohnungen für Beständigkeit bauen sich passiv auf, wenn du an aufeinanderfolgenden Tagen zurückkehrst."
+            },
+            {
+              "label": "Komplettierung",
+              "detail": "Meisterschaftsleistungen des Endgames kommen zuletzt, nachdem alles andere abgeschlossen ist."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "One Million Coins Systemanforderungen",
+          "description": "Prüfe die minimalen und empfohlenen PC-Spezifikationen, von Windows 10 64-Bit und 8 GB RAM bis zur GPU-Klasse, die große Münzwellen flüssig hält.",
+          "href": "/platforms/one-million-coins-system-requirements",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Minimum",
+              "detail": "Windows 10 64-Bit, Intel Core i5-8400 oder AMD Ryzen 5 2600, 8 GB RAM, GTX 1060 6 GB oder RX 580 8 GB."
+            },
+            {
+              "label": "Empfohlen",
+              "detail": "Windows 10 oder 11 64-Bit, Core i7-9700K oder Ryzen 5 3600, 16 GB RAM, RTX 2060 oder RX 6600."
+            },
+            {
+              "label": "Speicher",
+              "detail": "2 GB verfügbarer Speicherplatz für beide Konfigurationen, Minimum und empfohlen."
+            },
+            {
+              "label": "DirectX",
+              "detail": "Für beide Spezifikationsstufen ist Version 11 angegeben."
+            },
+            {
+              "label": "Plattform",
+              "detail": "Nur Windows, mit Xbox-Controller-Unterstützung, Steam-Cloud-Speicherständen und 16 Erfolgen."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "One Million Coins Tipps und Tricks",
+          "description": "Praktische Gewohnheiten für einen schnelleren Abschluss: zahle jede Ladung ein, arbeite eine dichte Wand ab und stelle die Infrastruktur wieder her, an der du ständig vorbeiläufst.",
+          "href": "/community/one-million-coins-tips-and-tricks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Früh einzahlen",
+              "detail": "Nicht eingezahlte Münzen sind totes Gewicht, also zahle ein, sobald ein Weg halb voll ist."
+            },
+            {
+              "label": "Eine Wand",
+              "detail": "Arbeite einen einzigen dichten Haufen in Linien ab, statt verstreuten Münzen im ganzen Tresor nachzujagen."
+            },
+            {
+              "label": "Erst Taschen",
+              "detail": "Kaufe Kapazität vor roher Werkzeugkraft, denn Taschen zahlen sich auf jedem Weg aus."
+            },
+            {
+              "label": "Wiederherstellen",
+              "detail": "Einzahlungsstationen, Aufzüge und Förderbänder verkürzen deine Route dauerhaft."
+            },
+            {
+              "label": "Oft einzahlen",
+              "detail": "Eine volle Ladung zu horten verzögert jedes Upgrade, das dahinter wartet."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "One Million Coins FAQ",
+      "description": "Schnelle Antworten auf die häufigsten Fragen zu One Million Coins.",
+      "items": [
+        {
+          "question": "Was ist One Million Coins?",
+          "answer": "One Million Coins ist ein kurzes Ego-Incremental-Mining-Spiel vom Entwickler ShoXx, das am 13. Oktober 2026 auf Steam erschienen ist. Du gräbst 1.000.000 Münzen aus einem unterirdischen Tresor, zahlst sie an Einzahlungsstationen ein und gibst das Geld für Werkzeuge und einen Skilltree mit über 250 Knoten aus."
+        },
+        {
+          "question": "Wie lange dauert es, One Million Coins abzuschließen?",
+          "answer": "Der Entwickler beschreibt One Million Coins als fokussierte Erfahrung, die die meisten Spieler in etwa zwei Stunden abschließen. Wer alle 16 Erfolge anstrebt, braucht dafür meist einen zweiten, entspannteren Durchlauf, weil das Layout dann schon vertraut ist."
+        },
+        {
+          "question": "Sollte ich in One Million Coins zuerst Werkzeuge oder Traglast kaufen?",
+          "answer": "Traglast. Beutel und Rucksäcke zahlen sich auf jedem Weg aus, während Werkzeugkraft nur beim Schaufeln hilft, also belohnt One Million Coins den Kauf eines Beutels und eines Rucksacks vor deinem ersten ernsthaften Werkzeug."
+        },
+        {
+          "question": "Was sollte ich im Skilltree von One Million Coins zuerst verbessern?",
+          "answer": "Beginne mit Kapazität, Bewegung und Sammelgeschwindigkeit. One Million Coins verteilt seine über 250 Knoten auf sieben Pfade, und die Spezialisierung in 20-Minuten-Blöcken schlägt das gleichmäßige Verteilen von Punkten."
+        },
+        {
+          "question": "Hat One Million Coins einen Niederlagezustand oder Timer?",
+          "answer": "Nein. One Million Coins ist ein Einzelspieler-Spiel ohne Kampf, ohne Timer und ohne Niederlagezustand, und es unterstützt das Speichern jederzeit, sodass die einzige Ressource, die du wirklich ausgibst, die Laufzeit ist."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, One Million Coins zu meistern?",
+      "description": "Von deinem ersten Münzhaufen bis zum voll ausgebauten Tresor deckt unser Community-Wiki den Mining-Loop, Werkzeug-Upgrades, den Skilltree mit über 250 Knoten und jeden Erfolg ab.",
+      "primary": "Den Einsteiger-Guide lesen",
+      "secondary": "Auf Steam spielen"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "updated": "Aktualisiert",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Lektüre",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Start",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!",
+    "latestUpdates": "Neueste Updates",
+    "latestUpdatesTitle": "Community- und Update-Zusammenfassungen",
+    "latestUpdatesDescription": "Münz-Farming-Tipps, Fortschrittsberichte und Community-Zusammenfassungen zu One Million Coins.",
+    "viewAllUpdates": "Community-Guides durchsuchen"
+  },
+  "footer": {
+    "aboutTitle": "One Million Coins Wiki",
+    "about": "One Million Coins Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub zum Münz-Mining-Loop, zu Werkzeug- und Beutel-Upgrades, zum Skilltree mit über 250 Knoten, zum Tresor-Fortschritt und zu wichtigem Spielwissen für neue und erfahrene Spieler gleichermaßen.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 One Million Coins Wiki. Nicht mit ShoXx, Oyen & Umi Games oder Valve verbunden.",
+    "description": "Ego-Incremental-Münz-Mining auf Steam. Grabe, zahle ein, verbessere und meistere einen Skilltree mit über 250 Knoten.",
+    "playGame": "Auf Steam spielen",
+    "steamCommunity": "Steam-Community-Hub",
+    "officialYoutube": "Offizielles YouTube",
+    "beginnerGuide": "Einsteiger-Guide",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen",
+    "gameMechanics": "Spielmechaniken",
+    "progression": "Fortschritt",
+    "platforms": "Plattformen"
+  }
+}

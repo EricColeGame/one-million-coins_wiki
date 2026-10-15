@@ -1,1 +1,509 @@
-{}
+{
+  "site": {
+    "name": "One Million Coins Wiki",
+    "shortName": "One Million Coins",
+    "tagline": "スキルツリー、アップグレード、金庫の進行と攻略のコツ",
+    "description": "一人称視点のコイン採掘ループ、ツールとポーチのアップグレード、250以上のノードを持つスキルツリー、金庫の進行、実績を網羅した非公式の One Million Coins ファンウィキ。",
+    "legalNotice": "非公式のファンウィキです。プレイヤーによって、プレイヤーのために作られています。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマを切り替える",
+    "guide": "ガイド",
+    "mechanics": "メカニクス",
+    "progression": "進行",
+    "platforms": "プラットフォーム",
+    "reviews": "レビュー",
+    "community": "コミュニティ"
+  },
+  "guide": {
+    "overviewTitle": "One Million Coins ガイド：初心者向け攻略とコイン回収ルート",
+    "overviewDescription": "One Million Coins のガイドを一箇所に集約：遊び方、コインの稼ぎ方、初心者ルート、完全攻略チャート、そしてこれまでに報告された最速クリアタイム。"
+  },
+  "mechanics": {
+    "overviewTitle": "One Million Coins メカニクス：コイン稼ぎ、スピードラン、金庫の秘密",
+    "overviewDescription": "One Million Coins のループの仕組みを解説：コイン回収、コイン稼ぎの方法、100万コイン挑戦、最深部の発見、ハイスコア、スピードランのルート。"
+  },
+  "progression": {
+    "overviewTitle": "One Million Coins 進行：実績、エンディング、秘密",
+    "overviewDescription": "解除要素、実績リスト、すべてのエンディング、隠された秘密、そして金庫を空にするためのコンプリートガイドで One Million Coins の進行を追跡しよう。"
+  },
+  "platforms": {
+    "overviewTitle": "One Million Coins プラットフォーム：Steam、PC ダウンロード、動作環境",
+    "overviewDescription": "PC と Steam 向けの One Million Coins プラットフォーム情報：ゲームのダウンロード先、記載された動作環境、コントローラー対応。"
+  },
+  "reviews": {
+    "overviewTitle": "One Million Coins レビュー、トレーラー、発売日",
+    "overviewDescription": "One Million Coins のレビューとメディアを一箇所に：公式トレーラー、ゲームプレイ動画、発売日と価格の詳細、Reddit でのプレイヤーの声。"
+  },
+  "community": {
+    "overviewTitle": "One Million Coins コミュニティ：コツ、Discord、最新アップデート",
+    "overviewDescription": "One Million Coins コミュニティハブ：初期プレイヤーからのコツとテクニック、参加する価値のある Discord サーバー、最新アップデートのまとめ。"
+  },
+  "home": {
+    "meta": {
+      "title": "One Million Coins Wiki - ガイド、アップグレード、スキルツリー",
+      "description": "初心者向けのコツ、ツールのアップグレード、250以上のノードを持つスキルツリー、コイン回収の戦略、進行ガイド、実績のヘルプで One Million Coins を徹底解説。"
+    },
+    "hero": {
+      "eyebrow": "一人称インクリメンタル・コイン採掘",
+      "title": "One Million Coins Wiki",
+      "description": "この一人称インクリメンタル採掘ゲームで、100万枚のコインを集め、ツールをアップグレードし、運搬容量を拡張し、250以上のノードを持つスキルツリーを極めよう。",
+      "stats": [
+        "合計 1,000,000 コイン",
+        "スキルツリーノード 250+",
+        "最新トラッキング 43 人",
+        "2026年10月13日 発売"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "スキルツリーガイド",
+      "tertiaryCta": "Steam でプレイ",
+      "videoLabel": "公式トレーラー"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "ここから始める",
+      "title": "あなたの One Million Coins の旅",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "素手でコインをすくい、最寄りの預入ステーションに預け、最初の本格的なツールを買う前にポーチを購入しよう。"
+        },
+        {
+          "number": "2",
+          "title": "最速の進行",
+          "description": "序盤のスキルノードは容量と移動に注ぎ、ポイントを均等に配るのではなく20分単位で特化しよう。"
+        },
+        {
+          "number": "3",
+          "title": "コイン稼ぎスポット",
+          "description": "密集した一箇所をきれいな線状に掘り、運搬量が半分になったら毎回預け、コンベアを復旧して移動時間に利益を食われないようにしよう。"
+        },
+        {
+          "number": "4",
+          "title": "金庫の進行",
+          "description": "預入ステーション、貨物リフト、コンベアを復旧してマップを縮め、ループが整ってからさらに深く掘り進もう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "今話題のページ",
+      "quickLinks": [
+        "初心者ガイド",
+        "スキルツリー",
+        "コイン稼ぎ",
+        "動作環境"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "コアループ、最初のアップグレード、そして金庫を空にするまでの2時間ルート。",
+          "href": "/guide/one-million-coins-beginner-guide"
+        },
+        {
+          "badge": "人気",
+          "title": "スキルツリーの優先順位",
+          "description": "最速クリアのために、250以上のノードツリーでどこにポイントを振るか。",
+          "href": "/guide/one-million-coins-how-to-play"
+        },
+        {
+          "badge": "人気",
+          "title": "コイン回収の基本",
+          "description": "ツール、運搬容量、預入ステーションがどうかみ合うのか。",
+          "href": "/mechanics/one-million-coins-coin-collecting"
+        },
+        {
+          "badge": "ガイド",
+          "title": "コイン稼ぎの方法",
+          "description": "素手の短い往復からウェーブを一掃するツールまで、段階別の稼ぎルート。",
+          "href": "/mechanics/one-million-coins-coin-farming-methods"
+        },
+        {
+          "badge": "更新",
+          "title": "実績ガイド",
+          "description": "16個の Steam 実績すべてへのロードマップと、それを解除するための習慣。",
+          "href": "/progression/one-million-coins-achievements"
+        },
+        {
+          "badge": "新着",
+          "title": "動作環境",
+          "description": "最小・推奨 PC スペックと、カクつきや起動クラッシュの修正方法。",
+          "href": "/platforms/one-million-coins-system-requirements"
+        },
+        {
+          "badge": "ガイド",
+          "title": "コツとテクニック",
+          "description": "毎回の往復を短縮し、攻略全体を速める小さな最適化。",
+          "href": "/community/one-million-coins-tips-and-tricks"
+        },
+        {
+          "badge": "ガイド",
+          "title": "最深部の発見",
+          "description": "バンカーの最深層を一掃するために何が必要か。",
+          "href": "/mechanics/one-million-coins-bottom-discovery"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "One Million Coins とは？",
+      "paragraphs": [
+        "One Million Coins は、開発者 ShoXx による短編の一人称インクリメンタル採掘ゲームで、2026年10月13日に Steam で発売されました。あなたは地下の金庫の中で素手の状態から始まり、ただ一つの目標を課されます：1,000,000枚のコインをすべて掘り出し、預入ステーションに預け、その収益をツール、バッグ、スキルノードにつぎ込むことです。",
+        "進行は2つの軸で進みます。装備は素手からポーチ、バックパック、そしてコインをウェーブで一掃する動力ツールへとあなたを導き、一方で250以上のノードを持つスキルツリーは移動、リーチ、回収速度、ツール性能、容量、預入速度にアップグレードを分散させます。預入ステーション、貨物リフト、コンベアなどのバンカー設備を復旧するとルートが恒久的に短くなり、ほとんどのプレイヤーは約2時間で金庫を空にできます。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "ShoXx"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "Windows / Steam"
+        },
+        {
+          "label": "ジャンル",
+          "value": "インクリメンタル"
+        },
+        {
+          "label": "コイン総数",
+          "value": "1,000,000"
+        },
+        {
+          "label": "スキルツリーノード",
+          "value": "250+"
+        },
+        {
+          "label": "実績",
+          "value": "16"
+        },
+        {
+          "label": "平均クリア時間",
+          "value": "約2時間"
+        },
+        {
+          "label": "発売日",
+          "value": "2026年10月13日"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "One Million Coins Wiki を探索",
+      "description": "8つのモジュールハブが攻略全体をカバー：初心者ループ、250以上のノードを持つスキルツリー、ツールと運搬容量、アップグレードの優先順位、金庫の進行、実績、PC 動作環境、実践的なコツ。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "One Million Coins 初心者ガイド",
+          "description": "素手でコインをすくうところから最初の運搬分を預け、容量の雪だるま式増加を始めるポーチを買うまでのコアループを学ぼう。",
+          "href": "/guide/one-million-coins-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "最初のアップグレードを買えるようになるまで、山から素手でコインをすくおう。"
+            },
+            {
+              "label": "2",
+              "detail": "遠い方ではなく最寄りの預入ステーションに預け、1回の往復で30〜40秒節約しよう。"
+            },
+            {
+              "label": "3",
+              "detail": "まずポーチ、次にバックパックを買い、以降の往復でより多くの金を運べるようにしよう。"
+            },
+            {
+              "label": "4",
+              "detail": "最初のノードは回収速度と移動に使い、ループ全体を速めよう。"
+            },
+            {
+              "label": "5",
+              "detail": "最初に見つけた預入ステーションを復旧し、長い徒歩を短い移動に変えよう。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "One Million Coins スキルツリーガイド",
+          "description": "移動、リーチ、回収速度、ツール性能、容量、預入速度にアップグレードを分散させる250以上のノードのスキルツリーで、ポイントを計画しよう。",
+          "href": "/guide/one-million-coins-how-to-play",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "容量",
+              "detail": "1回の往復で運べるコインを増やし、攻略のあらゆる段階で効果を発揮する。"
+            },
+            {
+              "label": "移動",
+              "detail": "往復の行き帰り両方の移動時間を削り、最も過小評価されている系統。"
+            },
+            {
+              "label": "回収",
+              "detail": "コインの山での1回のすくいが完了する速度を上げる。"
+            },
+            {
+              "label": "ツール性能",
+              "detail": "新しいツール段階に移る前に、各ツール操作の収量を底上げする。"
+            },
+            {
+              "label": "リーチ",
+              "detail": "背の高い、あるいは扱いにくい山の周りで位置を変えずにコインをつかめる。"
+            },
+            {
+              "label": "預入",
+              "detail": "積載量が膨大になった終盤、預けた運搬分を使える資金へ素早く変換する。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "One Million Coins ツールと装備",
+          "description": "素手から、ひとつまみではなくコインのウェーブを引き寄せる動力装備まで導くツールとバッグのはしごを比較しよう。",
+          "href": "/mechanics/one-million-coins-coin-collecting",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "素手",
+              "detail": "無料で使えるが、すくえる量がごく僅かなので預入ステーションへ何度も往復することになる。"
+            },
+            {
+              "label": "ポーチ",
+              "detail": "最初の本格的な容量強化であり、ゲーム内で最も安価な快適性の飛躍。"
+            },
+            {
+              "label": "バックパック",
+              "detail": "最初のツールが解放されると、短い往復を本格的な運搬に変える。"
+            },
+            {
+              "label": "動力ツール",
+              "detail": "コインがひとつまみではなくすくい単位で手に入り、山をはるかに速く片付けられる。"
+            },
+            {
+              "label": "終盤の装備",
+              "detail": "高出力装備は攻略の最後の3分の1で、1回の操作につきコインのウェーブを一掃する。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "One Million Coins おすすめアップグレード",
+          "description": "最も重要なアップグレード系統を順位付けし、運べないほどの純粋な性能ではなく、節約した時間に序盤の資金を使えるようにしよう。",
+          "href": "/mechanics/one-million-coins-coin-farming-methods",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "容量アップグレード：1回あたりのコイン増加は序盤で最も厳しい上限であり、他のすべてを支える静かな倍率。"
+            },
+            {
+              "label": "A",
+              "detail": "移動ノード：ループの行き帰り両方の徒歩を短縮し、往復ごとに積み重なる。"
+            },
+            {
+              "label": "B",
+              "detail": "回収速度：ツール性能と組み合わせて、預入ステーション近くの密集した山を片付ける。"
+            },
+            {
+              "label": "C",
+              "detail": "預入速度：積載量が本当に膨大になり、預け入れがボトルネックになったら投資する価値がある。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "One Million Coins 金庫進行ガイド",
+          "description": "地表の山からバンカーの最深部までの攻略を追い、各層でどのアップグレードがボトルネックを解消するかを確認しよう。",
+          "href": "/mechanics/one-million-coins-bottom-discovery",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "地表での素手：運搬量がごく僅かで、最初の往復の上限になる。"
+            },
+            {
+              "label": "2",
+              "detail": "最初のツールは入口付近でのすくいを速める。"
+            },
+            {
+              "label": "3",
+              "detail": "ポーチとバックパックはボトルネックを掘削から徒歩へと移す。"
+            },
+            {
+              "label": "4",
+              "detail": "リーチノードは、より広い層でつかめる範囲の外にあるコインを回収する。"
+            },
+            {
+              "label": "5",
+              "detail": "復旧した預入ステーション、貨物リフト、コンベアが運搬の一部を自動化する。"
+            },
+            {
+              "label": "6",
+              "detail": "最深層を完全に一掃すると、金庫は永遠に空になる。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "One Million Coins 実績ガイド",
+          "description": "Pocket Change や A Small Fortune を含む16個の Steam 実績を、段階別のロードマップと進行を止めない習慣とともに追跡しよう。",
+          "href": "/progression/one-million-coins-achievements",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "マイルストーン",
+              "detail": "コイン総数の実績は、最初のセッションから着実に解除されていく。"
+            },
+            {
+              "label": "効率",
+              "detail": "毎分・毎操作あたりのコインの功績は、無駄のない反復可能なループを報いる。"
+            },
+            {
+              "label": "収集",
+              "detail": "すべてのアイテム、アップグレード、ゾーンの解放が最後のボトルネックになる。"
+            },
+            {
+              "label": "デイリー",
+              "detail": "連続した日に戻ってくると、継続を報いる実績が受動的に積み上がる。"
+            },
+            {
+              "label": "コンプリート",
+              "detail": "エンドゲームの熟練の功績は、他のすべてを終えた後に最後に手に入る。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "One Million Coins 動作環境",
+          "description": "Windows 10 64ビットと 8 GB RAM から、大量のコインのウェーブを滑らかに保つ GPU まで、最小・推奨 PC スペックを確認しよう。",
+          "href": "/platforms/one-million-coins-system-requirements",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "最小",
+              "detail": "Windows 10 64ビット、Intel Core i5-8400 または AMD Ryzen 5 2600、8 GB RAM、GTX 1060 6 GB または RX 580 8 GB。"
+            },
+            {
+              "label": "推奨",
+              "detail": "Windows 10 または 11 64ビット、Core i7-9700K または Ryzen 5 3600、16 GB RAM、RTX 2060 または RX 6600。"
+            },
+            {
+              "label": "ストレージ",
+              "detail": "最小・推奨の両構成とも 2 GB の空き容量。"
+            },
+            {
+              "label": "DirectX",
+              "detail": "両スペック帯ともバージョン11が記載されている。"
+            },
+            {
+              "label": "プラットフォーム",
+              "detail": "Windows 専用で、Xbox コントローラー対応、Steam クラウドセーブ、16個の実績を備える。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "One Million Coins コツとテクニック",
+          "description": "より速くクリアするための実践的な習慣：毎回の運搬分を預け、密集した一箇所で作業し、通り過ぎてばかりの設備を復旧しよう。",
+          "href": "/community/one-million-coins-tips-and-tricks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "早めに預ける",
+              "detail": "預けていないコインはただの重りなので、運搬量が半分になったら預けよう。"
+            },
+            {
+              "label": "一箇所集中",
+              "detail": "金庫中に散らばるコインを追うのではなく、密集した一箇所を線状に作業しよう。"
+            },
+            {
+              "label": "バッグ優先",
+              "detail": "純粋なツール性能より先に容量を買おう。バッグは毎回の往復で元が取れる。"
+            },
+            {
+              "label": "復旧",
+              "detail": "預入ステーション、リフト、コンベアはルートを恒久的に短くする。"
+            },
+            {
+              "label": "こまめに預入",
+              "detail": "満載の荷を溜め込むと、その後に控えるすべてのアップグレードが遅れる。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "One Million Coins FAQ",
+      "description": "One Million Coins に関する最もよくある質問への手早い回答。",
+      "items": [
+        {
+          "question": "One Million Coins とは何ですか？",
+          "answer": "One Million Coins は、開発者 ShoXx による短編の一人称インクリメンタル採掘ゲームで、2026年10月13日に Steam で発売されました。地下の金庫から1,000,000枚のコインを掘り出し、預入ステーションに預け、その資金をツールと250以上のノードを持つスキルツリーにつぎ込みます。"
+        },
+        {
+          "question": "One Million Coins のクリアにはどれくらいかかりますか？",
+          "answer": "開発者は One Million Coins を、ほとんどのプレイヤーが約2時間でクリアできる的を絞った体験だと説明しています。16個の実績すべてを狙うなら、レイアウトに見慣れている分、通常は2回目のもっとリラックスした周回になります。"
+        },
+        {
+          "question": "One Million Coins ではツールと運搬容量のどちらを先に買うべきですか？",
+          "answer": "容量です。ポーチとバックパックは毎回の往復で元が取れる一方、ツール性能はすくっている間しか役立たないので、One Million Coins では最初の本格的なツールより先にポーチとバックパックを買うのが報われます。"
+        },
+        {
+          "question": "One Million Coins のスキルツリーでは最初に何を上げるべきですか？",
+          "answer": "容量、移動、回収速度から始めましょう。One Million Coins は250以上のノードを7つの系統に分散させており、ポイントを均等に配るより20分単位で特化する方が優れています。"
+        },
+        {
+          "question": "One Million Coins に失敗状態やタイマーはありますか？",
+          "answer": "いいえ。One Million Coins はシングルプレイヤーで、戦闘もタイマーも失敗状態もなく、いつでもセーブできるので、実際に消費している唯一の資源は移動時間です。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "One Million Coins を極める準備はできましたか？",
+      "description": "最初のコインの山から完全にアップグレードした金庫まで、私たちのコミュニティウィキが採掘ループ、ツールのアップグレード、250以上のノードを持つスキルツリー、そしてすべての実績を網羅します。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Steam でプレイ"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "ウィキナビゲーション",
+    "updated": "更新日",
+    "playOnRoblox": "Roblox でプレイ",
+    "inThisSection": "このセクション",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "助けが必要ですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "まだガイドがありません。また後で確認してください！",
+    "latestUpdates": "最新アップデート",
+    "latestUpdatesTitle": "コミュニティとアップデートのまとめ",
+    "latestUpdatesDescription": "One Million Coins のコイン稼ぎのコツ、進行レポート、コミュニティのまとめ。",
+    "viewAllUpdates": "コミュニティガイドを見る"
+  },
+  "footer": {
+    "aboutTitle": "One Million Coins Wiki",
+    "about": "One Million Coins Wiki は、コイン採掘ループ、ツールとポーチのアップグレード、250以上のノードを持つスキルツリー、金庫の進行、そして新規・ベテランのプレイヤー双方に必要なゲーム知識を網羅した、独立したファン制作のガイドハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的事項",
+    "copyright": "2026 One Million Coins Wiki. ShoXx、Oyen & Umi Games、Valve とは提携していません。",
+    "description": "Steam の一人称インクリメンタル・コイン採掘。掘って、預けて、アップグレードして、250以上のノードを持つスキルツリーを極めよう。",
+    "playGame": "Steam でプレイ",
+    "steamCommunity": "Steam コミュニティハブ",
+    "officialYoutube": "公式 YouTube",
+    "beginnerGuide": "初心者ガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約",
+    "gameMechanics": "ゲームメカニクス",
+    "progression": "進行",
+    "platforms": "プラットフォーム"
+  }
+}

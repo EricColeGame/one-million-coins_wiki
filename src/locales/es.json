@@ -1,1 +1,509 @@
-{}
+{
+  "site": {
+    "name": "One Million Coins Wiki",
+    "shortName": "One Million Coins",
+    "tagline": "Árbol de habilidades, mejoras, progresión de la bóveda y consejos",
+    "description": "Wiki no oficial de One Million Coins: el bucle de minería de monedas en primera persona, mejoras de herramientas y bolsas, el árbol de habilidades de más de 250 nodos, la progresión de la bóveda y los logros.",
+    "legalNotice": "Wiki no oficial hecha por fans. Creada por jugadores, para jugadores."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "mechanics": "Mecánicas",
+    "progression": "Progresión",
+    "platforms": "Plataformas",
+    "reviews": "Reseñas",
+    "community": "Comunidad"
+  },
+  "guide": {
+    "overviewTitle": "Guía de One Million Coins: tutoriales para principiantes y rutas de monedas",
+    "overviewDescription": "Todas las guías de One Million Coins en un solo lugar: cómo jugar, cómo conseguir monedas, la ruta para principiantes, partidas completas y los tiempos de finalización más rápidos reportados hasta ahora."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de One Million Coins: farmeo de monedas, speedruns y secretos de la bóveda",
+    "overviewDescription": "Cómo funciona realmente el bucle de One Million Coins: recolección de monedas, métodos de farmeo, el reto del millón de monedas, el descubrimiento del fondo, las puntuaciones altas y las rutas de speedrun."
+  },
+  "progression": {
+    "overviewTitle": "Progresión de One Million Coins: logros, finales y secretos",
+    "overviewDescription": "Sigue tu progreso en One Million Coins con desbloqueables, la lista de logros, todos los finales, secretos ocultos y una guía de completado para vaciar la bóveda."
+  },
+  "platforms": {
+    "overviewTitle": "Plataformas de One Million Coins: Steam, descarga para PC y requisitos",
+    "overviewDescription": "Detalles de plataforma de One Million Coins para PC y Steam: dónde descargar el juego, los requisitos del sistema indicados y la compatibilidad con mandos."
+  },
+  "reviews": {
+    "overviewTitle": "Reseñas de One Million Coins, tráiler y fecha de lanzamiento",
+    "overviewDescription": "Reseñas y contenido multimedia de One Million Coins en un solo lugar: el tráiler oficial, vídeos de gameplay, fecha de lanzamiento y precio, y lo que dicen los jugadores en Reddit."
+  },
+  "community": {
+    "overviewTitle": "Comunidad de One Million Coins: consejos, Discord y últimas novedades",
+    "overviewDescription": "El centro de la comunidad de One Million Coins: trucos y consejos de los primeros jugadores, servidores de Discord que vale la pena unirse y los últimos resúmenes de actualizaciones."
+  },
+  "home": {
+    "meta": {
+      "title": "One Million Coins Wiki - Guía, mejoras y árbol de habilidades",
+      "description": "Explora One Million Coins con consejos para principiantes, mejoras de herramientas, el árbol de habilidades de más de 250 nodos, estrategias de recolección de monedas, guías de progresión y ayuda con los logros."
+    },
+    "hero": {
+      "eyebrow": "Minería de monedas incremental en primera persona",
+      "title": "One Million Coins Wiki",
+      "description": "Reúne un millón de monedas, mejora tus herramientas, amplía tu capacidad de carga y domina un árbol de habilidades de más de 250 nodos en este juego de minería incremental en primera persona.",
+      "stats": [
+        "1.000.000 de monedas en total",
+        "Más de 250 nodos de habilidades",
+        "43 jugadores seguidos recientemente",
+        "Lanzamiento: 13 de octubre de 2026"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Guía del árbol de habilidades",
+      "tertiaryCta": "Jugar en Steam",
+      "videoLabel": "Tráiler oficial"
+    },
+    "updates": {
+      "title": "Últimas novedades",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu viaje en One Million Coins",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Recoge monedas con las manos desnudas, deposítalas en la estación de depósito más cercana y compra una bolsa antes de tu primera herramienta de verdad."
+        },
+        {
+          "number": "2",
+          "title": "Progresión más rápida",
+          "description": "Invierte los primeros nodos de habilidad en capacidad y movimiento, y luego especialízate en bloques de 20 minutos en lugar de repartir puntos por igual."
+        },
+        {
+          "number": "3",
+          "title": "Zonas de farmeo de monedas",
+          "description": "Trabaja una cara densa en líneas limpias, deposita cada carga medio llena y restaura las cintas transportadoras para que el tiempo de viaje deje de comerse tus beneficios."
+        },
+        {
+          "number": "4",
+          "title": "Progresión de la bóveda",
+          "description": "Restaura las estaciones de depósito, los montacargas de carga y las cintas para reducir el mapa, y luego cava más profundo cuando tu bucle esté limpio."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias ahora",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Árbol de habilidades",
+        "Farmeo de monedas",
+        "Requisitos del sistema"
+      ],
+      "cards": [
+        {
+          "badge": "Principiantes",
+          "title": "Guía para principiantes",
+          "description": "El bucle principal, las primeras mejoras y una ruta de dos horas para vaciar la bóveda.",
+          "href": "/guide/one-million-coins-beginner-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Prioridades del árbol de habilidades",
+          "description": "Dónde gastar los puntos en el árbol de más de 250 nodos para completar el juego lo más rápido posible.",
+          "href": "/guide/one-million-coins-how-to-play"
+        },
+        {
+          "badge": "Popular",
+          "title": "Fundamentos de la recolección de monedas",
+          "description": "Cómo encajan las herramientas, la capacidad de carga y las estaciones de depósito.",
+          "href": "/mechanics/one-million-coins-coin-collecting"
+        },
+        {
+          "badge": "Guía",
+          "title": "Métodos de farmeo de monedas",
+          "description": "Rutas de farmeo fase por fase, desde cortos viajes a mano hasta herramientas que arrasan oleadas.",
+          "href": "/mechanics/one-million-coins-coin-farming-methods"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Guía de logros",
+          "description": "Una hoja de ruta hacia los 16 logros de Steam y los hábitos que los desbloquean.",
+          "href": "/progression/one-million-coins-achievements"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Requisitos del sistema",
+          "description": "Especificaciones mínimas y recomendadas para PC, además de soluciones para tirones y cierres al iniciar.",
+          "href": "/platforms/one-million-coins-system-requirements"
+        },
+        {
+          "badge": "Guía",
+          "title": "Trucos y consejos",
+          "description": "Pequeñas optimizaciones que acortan cada viaje y aceleran toda la partida.",
+          "href": "/community/one-million-coins-tips-and-tricks"
+        },
+        {
+          "badge": "Guía",
+          "title": "Descubrimiento del fondo",
+          "description": "Lo que exige la capa más profunda del búnker antes de poder barrerla por completo.",
+          "href": "/mechanics/one-million-coins-bottom-discovery"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es One Million Coins?",
+      "paragraphs": [
+        "One Million Coins es un breve juego de minería incremental en primera persona del desarrollador ShoXx, lanzado en Steam el 13 de octubre de 2026. Empiezas con las manos vacías dentro de una bóveda subterránea y un único objetivo: extraer las 1.000.000 de monedas, depositarlas en una estación de depósito y gastar las ganancias en herramientas, bolsas y nodos de habilidad.",
+        "La progresión avanza por dos vías. El equipo te lleva de las manos desnudas a las bolsas, las mochilas y las herramientas motorizadas que arrasan monedas en oleadas, mientras que un árbol de habilidades de más de 250 nodos reparte las mejoras entre movimiento, alcance, velocidad de recolección, potencia de herramienta, capacidad y velocidad de depósito. Restaurar la infraestructura del búnker, como estaciones de depósito, montacargas y cintas transportadoras, acorta tu ruta de forma permanente, y la mayoría de los jugadores puede vaciar la bóveda en unas dos horas."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "ShoXx"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Windows / Steam"
+        },
+        {
+          "label": "Género",
+          "value": "Incremental"
+        },
+        {
+          "label": "Monedas totales",
+          "value": "1.000.000"
+        },
+        {
+          "label": "Nodos de habilidades",
+          "value": "Más de 250"
+        },
+        {
+          "label": "Logros",
+          "value": "16"
+        },
+        {
+          "label": "Partida típica",
+          "value": "Unas 2 horas"
+        },
+        {
+          "label": "Fecha de lanzamiento",
+          "value": "13 de octubre de 2026"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explora la wiki de One Million Coins",
+      "description": "Ocho centros temáticos cubren toda la partida: el bucle para principiantes, el árbol de habilidades de más de 250 nodos, las herramientas y la capacidad de carga, las prioridades de mejora, la progresión de la bóveda, los logros, los requisitos para PC y consejos prácticos.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de One Million Coins",
+          "description": "Aprende el bucle principal, desde recoger monedas a mano hasta depositar tu primera carga y comprar la bolsa que inicia tu bola de nieve de capacidad.",
+          "href": "/guide/one-million-coins-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Recoge monedas del montón a mano hasta que puedas permitirte tu primera mejora."
+            },
+            {
+              "label": "2",
+              "detail": "Deposita en la estación más cercana en vez de la lejana para ahorrar de 30 a 40 segundos por viaje."
+            },
+            {
+              "label": "3",
+              "detail": "Compra una bolsa y luego una mochila, para que cada viaje posterior transporte más oro."
+            },
+            {
+              "label": "4",
+              "detail": "Gasta tus primeros nodos en velocidad de recolección y movimiento para acelerar todo el bucle."
+            },
+            {
+              "label": "5",
+              "detail": "Restaura la primera estación de depósito que encuentres para convertir un paseo largo en uno corto."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía del árbol de habilidades de One Million Coins",
+          "description": "Planifica tus puntos en el árbol de más de 250 nodos, que reparte las mejoras entre movimiento, alcance, velocidad de recolección, potencia de herramienta, capacidad y velocidad de depósito.",
+          "href": "/guide/one-million-coins-how-to-play",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Capacidad",
+              "detail": "Aumenta las monedas que llevas por viaje y compensa en todas las etapas de la partida."
+            },
+            {
+              "label": "Movimiento",
+              "detail": "Reduce el tiempo de viaje en los dos tramos del recorrido y es la vía más infravalorada."
+            },
+            {
+              "label": "Recolección",
+              "detail": "Acelera la velocidad a la que se resuelve cada palada en el montón de monedas."
+            },
+            {
+              "label": "Potencia de herramienta",
+              "detail": "Aumenta lo que rinde cada acción de herramienta antes de pasar a un nuevo nivel de herramienta."
+            },
+            {
+              "label": "Alcance",
+              "detail": "Te permite coger monedas sin recolocarte alrededor de montones altos o incómodos."
+            },
+            {
+              "label": "Depósito",
+              "detail": "Convierte las cargas depositadas en fondos gastables más rápido cuando las cargas se vuelven enormes."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Herramientas y equipo de One Million Coins",
+          "description": "Compara la escala de herramientas y bolsas que te lleva de las manos desnudas al equipo motorizado que atrae oleadas de monedas en vez de pellizcos.",
+          "href": "/mechanics/one-million-coins-coin-collecting",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Manos desnudas",
+              "detail": "Gratis de usar, pero las paladas diminutas implican viajes constantes de vuelta a la estación de depósito."
+            },
+            {
+              "label": "Bolsa",
+              "detail": "Tu primera mejora real de capacidad y el salto de calidad de vida más barato del juego."
+            },
+            {
+              "label": "Mochila",
+              "detail": "Convierte los saltos cortos en cargas de verdad en cuanto se desbloquea tu primera herramienta."
+            },
+            {
+              "label": "Herramientas motorizadas",
+              "detail": "Las monedas llegan a paladas en lugar de pellizcos y despejan los montones mucho más rápido."
+            },
+            {
+              "label": "Equipo de final de partida",
+              "detail": "El equipo de alta potencia arrastra oleadas de monedas por pasada en el último tercio de la partida."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Mejores mejoras de One Million Coins",
+          "description": "Clasifica las vías de mejora que más importan para gastar los fondos iniciales en tiempo ahorrado en lugar de potencia bruta que no puedes transportar.",
+          "href": "/mechanics/one-million-coins-coin-farming-methods",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Mejoras de capacidad: más monedas por viaje es el límite más duro del inicio y el multiplicador silencioso detrás de todo lo demás."
+            },
+            {
+              "label": "A",
+              "detail": "Nodos de movimiento: los paseos más cortos en ambos tramos del bucle se acumulan en cada carga."
+            },
+            {
+              "label": "B",
+              "detail": "Velocidad de recolección: se combina con la potencia de herramienta para despejar montones densos cerca de una estación de depósito."
+            },
+            {
+              "label": "C",
+              "detail": "Velocidad de depósito: merece la pena invertir cuando las cargas se vuelven realmente enormes y depositar se convierte en el cuello de botella."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de progresión de la bóveda de One Million Coins",
+          "description": "Sigue la partida desde el montón de la superficie hasta el fondo del búnker y descubre qué mejora resuelve el cuello de botella en cada capa.",
+          "href": "/mechanics/one-million-coins-bottom-discovery",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Manos desnudas en la superficie: el tamaño de carga diminuto limita tus primeros viajes."
+            },
+            {
+              "label": "2",
+              "detail": "Las primeras herramientas aceleran la recolección cerca de la entrada."
+            },
+            {
+              "label": "3",
+              "detail": "Las bolsas y las mochilas trasladan el cuello de botella de cavar a caminar."
+            },
+            {
+              "label": "4",
+              "detail": "Los nodos de alcance recuperan monedas que quedan fuera de tu rango de agarre en capas más amplias."
+            },
+            {
+              "label": "5",
+              "detail": "Las estaciones de depósito, los montacargas y las cintas restauradas automatizan parte del acarreo."
+            },
+            {
+              "label": "6",
+              "detail": "Un barrido completo de la capa más profunda vacía la bóveda para siempre."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía de logros de One Million Coins",
+          "description": "Sigue los 16 logros de Steam, incluidos Pocket Change y A Small Fortune, con una hoja de ruta fase por fase y hábitos que mantienen el progreso en marcha.",
+          "href": "/progression/one-million-coins-achievements",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Hitos",
+              "detail": "Los logros de monedas totales se desbloquean de forma constante desde tu primera sesión."
+            },
+            {
+              "label": "Eficiencia",
+              "detail": "Las hazañas de monedas por minuto y por acción recompensan un bucle limpio y repetible."
+            },
+            {
+              "label": "Colección",
+              "detail": "Desbloquear cada objeto, mejora o zona se convierte en el último cuello de botella."
+            },
+            {
+              "label": "Partidas diarias",
+              "detail": "Los logros de constancia se acumulan de forma pasiva cuando vuelves en días consecutivos."
+            },
+            {
+              "label": "Completado",
+              "detail": "Las hazañas de maestría del final llegan al último, después de que todo lo demás esté terminado."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Requisitos del sistema de One Million Coins",
+          "description": "Consulta los requisitos mínimos y recomendados para PC, desde Windows 10 de 64 bits y 8 GB de RAM hasta la gama de GPU que mantiene fluidas las grandes oleadas de monedas.",
+          "href": "/platforms/one-million-coins-system-requirements",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Mínimos",
+              "detail": "Windows 10 de 64 bits, Intel Core i5-8400 o AMD Ryzen 5 2600, 8 GB de RAM, GTX 1060 de 6 GB o RX 580 de 8 GB."
+            },
+            {
+              "label": "Recomendados",
+              "detail": "Windows 10 u 11 de 64 bits, Core i7-9700K o Ryzen 5 3600, 16 GB de RAM, RTX 2060 o RX 6600."
+            },
+            {
+              "label": "Almacenamiento",
+              "detail": "2 GB de espacio disponible tanto para los requisitos mínimos como para los recomendados."
+            },
+            {
+              "label": "DirectX",
+              "detail": "Se indica la versión 11 para ambas gamas de especificaciones."
+            },
+            {
+              "label": "Plataforma",
+              "detail": "Solo Windows, con compatibilidad con mando de Xbox, guardado en la nube de Steam y 16 logros."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Trucos y consejos de One Million Coins",
+          "description": "Hábitos prácticos para completar el juego más rápido: deposita cada carga, trabaja una cara densa y restaura la infraestructura por la que no dejas de pasar.",
+          "href": "/community/one-million-coins-tips-and-tricks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Deposita pronto",
+              "detail": "Las monedas sin depositar son peso muerto, así que deposita siempre que un viaje esté medio lleno."
+            },
+            {
+              "label": "Una sola cara",
+              "detail": "Trabaja un único montón denso en líneas en lugar de perseguir monedas dispersas por la bóveda."
+            },
+            {
+              "label": "Primero las bolsas",
+              "detail": "Compra capacidad antes que potencia bruta de herramienta, porque las bolsas rinden en cada viaje."
+            },
+            {
+              "label": "Restaura",
+              "detail": "Las estaciones de depósito, los montacargas y las cintas acortan tu ruta de forma permanente."
+            },
+            {
+              "label": "Deposita a menudo",
+              "detail": "Acumular una carga completa retrasa cada mejora que queda detrás de ella."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes sobre One Million Coins",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre One Million Coins.",
+      "items": [
+        {
+          "question": "¿Qué es One Million Coins?",
+          "answer": "One Million Coins es un breve juego de minería incremental en primera persona del desarrollador ShoXx, lanzado en Steam el 13 de octubre de 2026. Extraes 1.000.000 de monedas de una bóveda subterránea, las depositas en las estaciones de depósito y gastas los fondos en herramientas y un árbol de habilidades de más de 250 nodos."
+        },
+        {
+          "question": "¿Cuánto se tarda en terminar One Million Coins?",
+          "answer": "El desarrollador describe One Million Coins como una experiencia concentrada que la mayoría de los jugadores termina en unas dos horas. Conseguir los 16 logros suele implicar una segunda partida más relajada, porque el diseño ya te resulta familiar."
+        },
+        {
+          "question": "¿Debería comprar herramientas o capacidad de carga primero en One Million Coins?",
+          "answer": "Capacidad. Las bolsas y las mochilas compensan en cada viaje, mientras que la potencia de herramienta solo ayuda mientras recoges, así que One Million Coins premia comprar una bolsa y una mochila antes de tu primera herramienta seria."
+        },
+        {
+          "question": "¿Qué debería mejorar primero en el árbol de habilidades de One Million Coins?",
+          "answer": "Empieza por capacidad, movimiento y velocidad de recolección. One Million Coins reparte sus más de 250 nodos entre siete vías, y especializarse en bloques de 20 minutos supera a repartir los puntos por igual."
+        },
+        {
+          "question": "¿One Million Coins tiene estado de derrota o temporizador?",
+          "answer": "No. One Million Coins es para un jugador, sin combate, sin temporizador y sin estado de derrota, y admite guardar en cualquier momento, así que el único recurso que realmente gastas es el tiempo de viaje."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar One Million Coins?",
+      "description": "Desde tu primer montón de monedas hasta una bóveda totalmente mejorada, nuestra wiki comunitaria cubre el bucle de minería, las mejoras de herramientas, el árbol de habilidades de más de 250 nodos y todos los logros.",
+      "primary": "Leer la guía para principiantes",
+      "secondary": "Jugar en Steam"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "updated": "Actualizado",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Siguientes pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Contenido oficial",
+    "home": "Inicio",
+    "noGuidesAvailable": "Todavía no hay guías disponibles. ¡Vuelve pronto!",
+    "latestUpdates": "Últimas novedades",
+    "latestUpdatesTitle": "Resúmenes de la comunidad y las actualizaciones",
+    "latestUpdatesDescription": "Consejos de farmeo de monedas, informes de progresión y resúmenes de la comunidad de One Million Coins.",
+    "viewAllUpdates": "Ver guías de la comunidad"
+  },
+  "footer": {
+    "aboutTitle": "One Million Coins Wiki",
+    "about": "One Million Coins Wiki es un centro de guías independiente creado por fans que cubre el bucle de minería de monedas, las mejoras de herramientas y bolsas, el árbol de habilidades de más de 250 nodos, la progresión de la bóveda y los conocimientos esenciales del juego tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 One Million Coins Wiki. Sin afiliación con ShoXx, Oyen & Umi Games ni Valve.",
+    "description": "Minería de monedas incremental en primera persona en Steam. Cava, deposita, mejora y domina un árbol de habilidades de más de 250 nodos.",
+    "playGame": "Jugar en Steam",
+    "steamCommunity": "Centro de la comunidad de Steam",
+    "officialYoutube": "YouTube oficial",
+    "beginnerGuide": "Guía para principiantes",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio",
+    "gameMechanics": "Mecánicas del juego",
+    "progression": "Progresión",
+    "platforms": "Plataformas"
+  }
+}
