@@ -19,19 +19,15 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
-  social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
-  },
+  name: "One Million Coins Wiki",
+  shortName: "One Million Coins",
+  logoText: "O",
+  tagline: "Skill Tree, Upgrades, Vault Progression & Tips",
+  description: "Fan-made One Million Coins wiki covering the first-person coin mining loop, tool and pouch upgrades, the 250+ node skill tree, vault progression and achievements.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://one-million-coins.wiki",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://one-million-coins.wiki").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://store.steampowered.com/app/5258340/One_Million_Coins/",
+  heroVideoId: "2K9RPc5SlVU", // One Million Coins gameplay walkthrough (showcase)
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
 };
