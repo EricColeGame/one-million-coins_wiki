@@ -1,0 +1,116 @@
+export const metadata = {
+  title: "One Million Coins Controller-Unterstützung: Gamepad, Steam Deck und Eingabeoptionen",
+  description: "Unterstützt One Million Coins Controller? Das bestätigt die Steam-Seite zu Xbox-Pads, Steam Deck und Eingabeoptionen.",
+  category: "platforms",
+  date: "2026-10-15",
+}
+
+Wenn du eine Couch-Session mit Gamepad planst, ist die Controller-Unterstützung von One Million Coins das Erste, was sich zu prüfen lohnt. Der Steam-Eintrag erwähnt tatsächlich Xbox-Controller in seinen Eingabehinweisen – ein gutes Zeichen für alle, die sich nicht zwei Stunden über die Maus beugen wollen. Doch die Details sind dünner als erhofft: Auf der Seite fehlt das Abzeichen für vollständige Controller-Unterstützung, und die Steam-Deck-Kompatibilität ist weiterhin als Unbekannt gelistet. Wie sieht die Controller-Unterstützung von One Million Coins also aktuell wirklich aus, und wie bringst du ein Pad zum Laufen, wenn das Spiel dir kein fertiges Layout liefert?
+
+## Was der Steam-Eintrag über die Controller-Unterstützung von One Million Coins sagt
+
+One Million Coins ist ein kurzes First-Person-Incremental-Spiel vom Solo-Entwickler ShoXx, veröffentlicht am 13. Oktober 2026. Du startest mit leeren Händen in einem Bunkertresor mit genau 1.000.000 Münzen, schaufelst sie auf, schleppst sie zu einer Abgabestation und gibst die Einnahmen für bessere Werkzeuge, größere Taschen und einen Skilltree mit über 250 Knoten aus. Da sich die gesamte Schleife um First-Person-Bewegung dreht – gehen, greifen, aufheben und tragen –, ist die Steuerung weit wichtiger als bei einem menügesteuerten Clicker.
+
+Die Steam-Seite liefert eine teilweise Antwort. Unter den Eingabe- und Barrierefreiheitshinweisen verweist der Eintrag auf „Xbox Controllers". Das ist ein aussagekräftiges Signal dafür, dass Gamepad-Spiel während der Entwicklung zumindest bedacht wurde. Was die Seite jedoch *nicht* anzeigt, ist Steam's spezielles Abzeichen „Full controller support" oder „Partial controller support" neben Funktionen wie Einzelspieler, Steam-Erfolge, Steam Cloud, Steam-Bestenlisten und Family Sharing.
+
+In klaren Worten: Die Controller-Unterstützung von One Million Coins wirkt plausibel, wurde aber noch nicht offiziell von Valve bewertet oder vom Entwickler ausführlich dokumentiert.
+
+| Eingabemethode | Was die Shop-Seite sagt | Was das in der Praxis bedeutet |
+|---|---|---|
+| Xbox-Controller | In Eingabe-/Barrierefreiheitshinweisen aufgeführt | Gamepad-Spiel ist beabsichtigt oder zumindest berücksichtigt |
+| Tastatur + Maus | Nicht explizit aufgeführt | Mit ziemlicher Sicherheit die Standardeinstellung für einen First-Person-PC-Titel |
+| Steam Deck | Kompatibilität: Unbekannt | Valve hat es nicht bewertet; Spielbarkeitsstatus unbestätigt |
+| Steam-Input-Neubelegung | Über den Steam-Client verfügbar | Du kannst ein eigenes Layout erstellen, auch ohne offizielle Bindings |
+| Abzeichen für vollständige Controller-Unterstützung | Nicht angezeigt | Menünavigation und UI-Hinweise müssen möglicherweise manuell belegt werden |
+
+## Native Unterstützung vs. Steam-Input-Zuordnung
+
+Es gibt zwei sehr unterschiedliche Arten, wie ein PC-Spiel einen Controller „unterstützen" kann, und wer den Unterschied kennt, spart sich viel Frust.
+
+**Native Unterstützung** bedeutet, dass das Spiel dein Gamepad direkt liest. Bildschirmhinweise wechseln zu A/B/X/Y, Menüs reagieren auf das D-Pad oder den Stick, und die Kamera bewegt sich mit dem rechten Thumbstick ohne jegliche Zwischensoftware.
+
+**Steam-Input-Übersetzung** bedeutet, dass Steam die Eingaben deines Pads in Tastatur- und Mausbefehle umwandelt. Es funktioniert, aber das Spiel denkt weiterhin, du seist an einer Tastatur – also zeigen Hinweise weiterhin Tastenbuchstaben, und manche Aktionen können sich etwas daneben anfühlen, bis du sie justierst.
+
+Für One Million Coins gibt die Shop-Seite nicht an, welcher Ansatz verwendet wird. Ein kurzer Test klärt das: Starte das Spiel mit angeschlossenem Controller und beobachte die Hinweise. Siehst du Tastaturbuchstaben, übersetzt Steam. Siehst du Button-Symbole, unterstützt das Spiel das Pad nativ.
+
+So oder so ist Steam Input dein Sicherheitsnetz. Klicke das Spiel in deiner Bibliothek mit der rechten Maustaste an, öffne **Eigenschaften → Controller**, und du findest einen vollständigen Konfigurator mit Community-Layouts, die du in Sekunden anwenden kannst.
+
+## So richtest du einen Controller für One Million Coins ein
+
+Wenn das Spiel dein Pad nicht sofort erkennt, löst diese Abfolge die überwiegende Mehrheit der Fälle.
+
+| Schritt | Aktion | Warum das wichtig ist |
+|---|---|---|
+| 1 | Verbinde den Controller per USB oder Bluetooth und bestätige ihn in Windows | Schließt Treiber- und Kopplungsprobleme aus, bevor du das Spiel verantwortlich machst |
+| 2 | Aktiviere Steam Input für One Million Coins in Steam | Zwingt Steam zur Übersetzung der Eingaben, falls native Unterstützung fehlt |
+| 3 | Starte das Spiel und teste Bewegung, Kamera und Greifen | Zeigt, welche Aktionen belegt sind und welche tot sind |
+| 4 | Öffne den Steam-Input-Konfigurator und belege fehlende Aktionen | Deckt Greifen, Einzahlen, Interagieren und Menünavigation ab |
+| 5 | Speichere das Layout als persönliche Vorlage | Bewahrt deine Bindings über Updates hinweg |
+
+Ein sinnvolles Startlayout für einen First-Person-Sammler sieht so aus: linker Stick für Bewegung, rechter Stick für die Kamera, rechter Trigger zum Greifen oder Aufschaufeln von Münzen, linker Trigger zum Interagieren mit der Abgabestation und Face-Buttons für Menüs. Wenn sich die Kamera zu zittrig anfühlt, senke zuerst die Empfindlichkeit in den Spieloptionen und passe danach die Deadzone in Steam Input an.
+
+## Tastatur und Maus vs. Gamepad für einen First-Person-Münztresor
+
+Da One Million Coins um eine mausgesteuerte Kamera herum aufgebaut ist, haben beide Eingabestile echte Kompromisse.
+
+| Faktor | Tastatur + Maus | Controller |
+|---|---|---|
+| Kamerapräzision | Ausgezeichnet – schnelle, präzise Bewegungen | Gut, aber langsamer für feine Anpassungen |
+| Genauigkeit beim Greifen und Sammeln | Hoch, besonders in engen Münzhaufen | Erfordert Feinabstimmung der Empfindlichkeit |
+| Skilltree-Navigation | Komfortabel mit dem Cursor | Funktioniert, wenn Menüs pad-freundlich sind |
+| Lange Sitzungen | Kann Handgelenke belasten | Entspannter für mehrstündige Runs |
+| Couch- und TV-Spiel | Unbequem | Ideal |
+| Steam-Deck-Spiel | N/A | Native Passung, Bewertung der Kompatibilität ausstehend |
+
+Für die meisten Spieler ist die ehrliche Empfehlung hybrid: Nutze einen Controller für das bewegungsintensive Sammel-Grinding und wechsle zu Maus und Tastatur, wenn du längere Zeit im Skilltree mit über 250 Knoten verbringst. Wenn du ein DualSense oder einen Steam Controller besitzt, überbrückt dessen Trackpad die Lücke hervorragend – du bekommst analoge Bewegung plus zeigerartige Kamerasteuerung in einem Gerät.
+
+## Steam Deck, Handhelds und Performance-Hinweise
+
+Die Steam-Deck-Kompatibilität für One Million Coins ist als **Unbekannt** gelistet, was bedeutet, dass Valve noch keinen Verifizierungsdurchlauf abgeschlossen hat. Das ist üblich für ein im Oktober 2026 veröffentlichtes Spiel mit bislang nur einer Handvoll Nutzerbewertungen.
+
+Die gute Nachricht ist, dass die Hardwareanforderungen bescheiden sind. Eine 2 GB große Installation und DirectX-11-Grafik deuten darauf hin, dass das Spiel auf Handheld-Hardware problemlos laufen sollte, sobald die Kompatibilität bestätigt ist.
+
+| Anforderung | Minimum | Empfohlen |
+|---|---|---|
+| Betriebssystem | Windows 10 (64-Bit) | Windows 10 / 11 (64-Bit) |
+| Prozessor | Intel Core i5-8400 / AMD Ryzen 5 2600 | Intel Core i7-9700K / AMD Ryzen 5 3600 |
+| Arbeitsspeicher | 8 GB RAM | 16 GB RAM |
+| Grafik | NVIDIA GTX 1060 6 GB / AMD RX 580 8 GB | NVIDIA RTX 2060 / AMD RX 6600 |
+| DirectX | Version 11 | Version 11 |
+| Speicherplatz | 2 GB verfügbarer Speicherplatz | 2 GB verfügbarer Speicherplatz |
+
+Wenn du vorhast, auf dem Deck zu spielen, teste es während des Steam-Rückgabefensters. Die Installationsgröße ist winzig, also kostet es kaum etwas, es selbst zu prüfen. Den offiziellen Eintrag und den aktuellen Kompatibilitätsstatus findest du auf [der One Million Coins Steam-Shop-Seite](https://store.steampowered.com/app/5258340/One_Million_Coins/).
+
+## Barrierefreiheits-Funktionen, die gut mit Controller-Spiel harmonieren
+
+Das Spiel wird mit einer kleinen, aber nützlichen Reihe von Barrierefreiheits-Optionen ausgeliefert, von denen mehrere die Controller-Unterstützung von One Million Coins nachsichtiger machen.
+
+| Funktion | Kategorie | Warum sie Gamepad-Spielern hilft |
+|---|---|---|
+| Jederzeit speichern | Gameplay | Pausiere und beende mitten im Transport, ohne Fortschritt zu verlieren |
+| Spielbar ohne Quick-Time-Events | Eingabe | Keine zittrigen Button-Prompts, die Pad-Latenz bestrafen |
+| In deinem eigenen Tempo spielbar | Eingabe | Keine Timer, die schnelle, ungenaue Stick-Eingaben erzwingen |
+| Individuelle Lautstärkeregelung | Audio | Passe Audio an, ohne von der Couch aufzustehen |
+| Stereo-Sound | Audio | Einfacher Audiomix, schonend für Handheld-Lautsprecher |
+
+Das Fehlen von Quick-Time-Events ist der Höhepunkt. Es bedeutet, dass ein Controller-Layout nicht perfekt sein muss – du kannst dir Zeit lassen, um eine Schaufel auszurichten oder durch ein Menü zu navigieren, ohne Reaktionszeitstrafe. Berichte aus der Community von frühen Käufern bestätigen, dass das Spiel entspannt statt fordernd ist, was gut zu Pad-Spiel passt.
+
+## Ein kurzes Wort zu Kosten und Länge
+
+Zwei praktische Details beeinflussen, wie viel Controller-Experimentieren deine Zeit wert ist. Erstens ist das Spiel kurz: Der Entwickler gibt an, dass die meisten Spieler den Tresor in etwa **2 Stunden** leeren werden. Zweitens ist es günstig – gelistet für 2,49 $ mit einem Einführungsrabatt von 20 %, der es bis zum 20. Oktober auf 1,99 $ bringt.
+
+Bei diesem Preis und dieser Länge ist es völlig vernünftig, zehn Minuten in die Feinabstimmung eines Gamepad-Layouts zu investieren. Du verpflichtest dich nicht zu einem Hundert-Stunden-Build; du optimierst eine fokussierte Zwei-Stunden-Session.
+
+## FAQ
+
+**Unterstützt One Million Coins Controller?**
+Die Steam-Shop-Seite listet Xbox-Controller unter ihren Eingabehinweisen auf, was darauf hindeutet, dass Gamepad-Spiel anerkannt wird. Allerdings wird Steam's offizielles Abzeichen „Full controller support" nicht angezeigt, weshalb die Controller-Unterstützung von One Million Coins am besten als anerkannt, aber nicht offiziell bewertet beschrieben wird. Testen nach dem Start ist der schnellste Weg, das Verhalten auf deinem spezifischen Pad zu bestätigen.
+
+**Ist die Controller-Unterstützung von One Million Coins für Steam Deck bestätigt?**
+Nein. Die Steam-Deck-Kompatibilität ist derzeit als Unbekannt gelistet, was bedeutet, dass Valve sie nicht verifiziert hat. Angesichts der niedrigen Systemanforderungen und der 2 GB Installationsgröße wird es wahrscheinlich laufen, aber „wahrscheinlich" ist nicht „verifiziert". Prüfe die Shop-Seite auf Updates oder teste es selbst während des Rückgabefensters.
+
+**Kann ich Buttons neu belegen, wenn sich das Standardlayout falsch anfühlt?**
+Ja. Auch ohne offizielle Bindings lässt dich Steam Input jede Aktion auf jeden Button legen, Deadzones justieren und eine persönliche Vorlage speichern. Das ist der zuverlässigste Workaround, wenn die Controller-Unterstützung von One Million Coins nicht jede Menüaktion von Haus aus abdeckt.
+
+**Sollte ich einen Controller oder Tastatur und Maus verwenden?**
+Für das Sammel-Grinding ist ein Controller bequemer und besser für Couch- oder Handheld-Spiel geeignet. Für intensives Skilltree-Planen über die mehr als 250 Knoten umfassenden Upgrade-Pfade ist Maus und Tastatur schneller. Viele Spieler werden am Ende beides nutzen, je nachdem, was sie gerade im Tresor tun.

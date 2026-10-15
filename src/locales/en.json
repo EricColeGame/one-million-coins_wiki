@@ -9,7 +9,37 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "progression": "Progression",
+    "platforms": "Platforms",
+    "reviews": "Reviews",
+    "community": "Community"
+  },
+  "guide": {
+    "overviewTitle": "One Million Coins Guide: Beginner Walkthroughs and Coin Routes",
+    "overviewDescription": "Every One Million Coins guide in one place: how to play, how to get coins, the beginner route, full game walkthroughs, and the fastest completion times reported so far."
+  },
+  "mechanics": {
+    "overviewTitle": "One Million Coins Mechanics: Coin Farming, Speedruns and Vault Secrets",
+    "overviewDescription": "How the One Million Coins loop actually works: coin collecting, coin farming methods, the million coin challenge, bottom discovery, high scores, and speedrun routing."
+  },
+  "progression": {
+    "overviewTitle": "One Million Coins Progression: Achievements, Endings and Secrets",
+    "overviewDescription": "Track One Million Coins progression with unlockables, the achievement list, all endings, hidden secrets, and a completion guide for emptying the vault."
+  },
+  "platforms": {
+    "overviewTitle": "One Million Coins Platforms: Steam, PC Download and System Requirements",
+    "overviewDescription": "One Million Coins platform details for PC and Steam: where to download the game, the listed system requirements, and controller support."
+  },
+  "reviews": {
+    "overviewTitle": "One Million Coins Reviews, Trailer and Release Date",
+    "overviewDescription": "One Million Coins reviews and media in one hub: the official trailer, gameplay videos, release date and price details, and what players say on Reddit."
+  },
+  "community": {
+    "overviewTitle": "One Million Coins Community: Tips, Discord and Latest Updates",
+    "overviewDescription": "The One Million Coins community hub: tips and tricks from early players, Discord servers worth joining, and the latest update roundups."
   },
   "home": {
     "meta": {
@@ -439,12 +469,9 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
     "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
@@ -455,7 +482,11 @@
     "readMore": "Read more",
     "officialMedia": "Official media",
     "home": "Home",
-    "noGuidesAvailable": "No guides available yet. Check back soon!"
+    "noGuidesAvailable": "No guides available yet. Check back soon!",
+    "latestUpdates": "Latest Updates",
+    "latestUpdatesTitle": "Community and Update Roundups",
+    "latestUpdatesDescription": "Coin farming tips, progression reports, and community roundups for One Million Coins.",
+    "viewAllUpdates": "Browse community guides"
   },
   "footer": {
     "aboutTitle": "One Million Coins Wiki",
@@ -469,10 +500,10 @@
     "steamCommunity": "Steam Community Hub",
     "officialYoutube": "Official YouTube",
     "beginnerGuide": "Beginner Guide",
-    "skillTree": "Skill Tree",
-    "codes": "Codes",
-    "tierList": "Tier List",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "gameMechanics": "Game Mechanics",
+    "progression": "Progression",
+    "platforms": "Platforms"
   }
 }
