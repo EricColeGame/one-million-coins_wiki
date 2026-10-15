@@ -7,6 +7,7 @@ export interface SiteConfig {
   url: string;
   supportEmail: string;
   gameUrl?: string;
+  communityUrl?: string;
   heroVideoId?: string;
   social?: {
     discord?: string;
@@ -25,9 +26,13 @@ export const siteConfig: SiteConfig = {
   tagline: "Skill Tree, Upgrades, Vault Progression & Tips",
   description: "Fan-made One Million Coins wiki covering the first-person coin mining loop, tool and pouch upgrades, the 250+ node skill tree, vault progression and achievements.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://one-million-coins.wiki",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://one-million-coins.wiki").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@one-million-coins.wiki",
   gameUrl: "https://store.steampowered.com/app/5258340/One_Million_Coins/",
-  heroVideoId: "2K9RPc5SlVU", // One Million Coins gameplay walkthrough (showcase)
+  communityUrl: "https://steamcommunity.com/app/5258340",
+  heroVideoId: "wY3xRVleik4", // One Million Coins - Official Trailer (Oyen & Umi Games)
+  social: {
+    youtube: "https://www.youtube.com/@OyenTheCapybara",
+  },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
 };

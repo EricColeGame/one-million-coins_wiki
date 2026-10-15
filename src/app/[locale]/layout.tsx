@@ -33,10 +33,18 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       ],
       apple: [{ url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
     },
-    title: { default: "VV: ULTIMATUM Wiki", template: "%s" },
-    description: "Complete VV: ULTIMATUM fan wiki with codes, bosses, builds, races, guides and progression walkthroughs.",
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
-    twitter: { card: "summary_large_image", images: [image] },
+    title: { default: "One Million Coins Wiki", template: "%s" },
+    description: "Explore One Million Coins with beginner tips, tool upgrades, the 250+ node skill tree, coin collection strategies, progression guides, and achievement help.",
+    openGraph: {
+      type: "website",
+      locale,
+      url: siteUrl,
+      siteName: siteConfig.name,
+      title: "One Million Coins Wiki",
+      description: siteConfig.description,
+      images: [{ url: image, width: 1438, height: 810, alt: "One Million Coins vault of gold coins" }],
+    },
+    twitter: { card: "summary_large_image", title: "One Million Coins Wiki", description: siteConfig.description, images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }
